@@ -52,8 +52,7 @@ namespace nilnul._algorithm_._TEST_.nilnul0.algo_.recur_.eg_.path
 					0, matrix.GetLength(1)).Select(c => (r, c)
 				)
 			).SelectMany(
-				cel =>
-				depth1stSearch(cel)
+				cel =>		depth1stSearch(cel)
 			);
 		}
 
@@ -101,21 +100,22 @@ namespace nilnul._algorithm_._TEST_.nilnul0.algo_.recur_.eg_.path
 
 			foreach (var item in neighbors)
 			{
+				
 				if (
 					item.Item1 >= matrix.GetLength(0) || item.Item1 < 0
 					||
 					item.Item2 >= matrix.GetLength(1) || item.Item2 < 0
-				)
+				) // cannot exceed the bounds of the matrix
 				{
 					continue;
 				}
 
-				if (visited.Contains(item))
+				if (visited.Contains(item)) // cannot get into a cell twice;
 				{
 					continue;
 				}
 
-				if (matrix[item.Item1, item.Item2] >= matrix[current.Item1, current.Item2])
+				if (matrix[item.Item1, item.Item2] >= matrix[current.Item1, current.Item2]) // can only get into a cell containing a lower number;
 				{
 					continue;
 				}
