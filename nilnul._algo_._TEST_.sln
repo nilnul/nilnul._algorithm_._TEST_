@@ -1,0 +1,158 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilnul._algorithm_._TEST_", "nilnul._algorithm_._TEST_.csproj", "{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{24A23F13-05F1-4EF3-804F-B01F64C7E204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilnul._algorithm_._LIB_", "..\_LIB_(Git\nilnul._algorithm_._LIB_.csproj", "{0DACEB8C-064E-4395-90D9-298015700BB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		_Temp|Any CPU = _Temp|Any CPU
+		_Temp|Mixed Platforms = _Temp|Mixed Platforms
+		_Temp|x86 = _Temp|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Dev2nuget|Any CPU = Dev2nuget|Any CPU
+		Dev2nuget|Mixed Platforms = Dev2nuget|Mixed Platforms
+		Dev2nuget|x86 = Dev2nuget|x86
+		Nuget|Any CPU = Nuget|Any CPU
+		Nuget|Mixed Platforms = Nuget|Mixed Platforms
+		Nuget|x86 = Nuget|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+		Sym2nuget|Any CPU = Sym2nuget|Any CPU
+		Sym2nuget|Mixed Platforms = Sym2nuget|Mixed Platforms
+		Sym2nuget|x86 = Sym2nuget|x86
+		Symbol|Any CPU = Symbol|Any CPU
+		Symbol|Mixed Platforms = Symbol|Mixed Platforms
+		Symbol|x86 = Symbol|x86
+		Trial|Any CPU = Trial|Any CPU
+		Trial|Mixed Platforms = Trial|Mixed Platforms
+		Trial|x86 = Trial|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}._Temp|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}._Temp|Any CPU.Build.0 = Debug|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}._Temp|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}._Temp|Mixed Platforms.Build.0 = Debug|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}._Temp|x86.ActiveCfg = Debug|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}._Temp|x86.Build.0 = Debug|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Debug|x86.Build.0 = Debug|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Dev2nuget|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Dev2nuget|Any CPU.Build.0 = Debug|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Dev2nuget|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Dev2nuget|Mixed Platforms.Build.0 = Debug|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Dev2nuget|x86.ActiveCfg = Debug|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Dev2nuget|x86.Build.0 = Debug|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Nuget|Any CPU.ActiveCfg = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Nuget|Any CPU.Build.0 = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Nuget|Mixed Platforms.ActiveCfg = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Nuget|Mixed Platforms.Build.0 = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Nuget|x86.ActiveCfg = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Nuget|x86.Build.0 = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Release|x86.ActiveCfg = Release|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Release|x86.Build.0 = Release|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Sym2nuget|Any CPU.ActiveCfg = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Sym2nuget|Any CPU.Build.0 = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Sym2nuget|Mixed Platforms.ActiveCfg = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Sym2nuget|Mixed Platforms.Build.0 = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Sym2nuget|x86.ActiveCfg = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Sym2nuget|x86.Build.0 = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Symbol|Any CPU.ActiveCfg = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Symbol|Any CPU.Build.0 = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Symbol|Mixed Platforms.ActiveCfg = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Symbol|Mixed Platforms.Build.0 = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Symbol|x86.ActiveCfg = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Symbol|x86.Build.0 = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Trial|Any CPU.ActiveCfg = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Trial|Any CPU.Build.0 = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Trial|Mixed Platforms.ActiveCfg = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Trial|Mixed Platforms.Build.0 = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Trial|x86.ActiveCfg = Trial|Any CPU
+		{33E5C0A2-EEC6-4704-AF87-74F5FC759AFC}.Trial|x86.Build.0 = Trial|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}._Temp|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}._Temp|Any CPU.Build.0 = Debug|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}._Temp|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}._Temp|Mixed Platforms.Build.0 = Debug|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}._Temp|x86.ActiveCfg = Debug|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}._Temp|x86.Build.0 = Debug|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Debug|x86.Build.0 = Debug|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Dev2nuget|Any CPU.ActiveCfg = Dev2nuget|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Dev2nuget|Any CPU.Build.0 = Dev2nuget|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Dev2nuget|Mixed Platforms.ActiveCfg = Dev2nuget|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Dev2nuget|Mixed Platforms.Build.0 = Dev2nuget|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Dev2nuget|x86.ActiveCfg = Dev2nuget|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Dev2nuget|x86.Build.0 = Dev2nuget|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Nuget|Any CPU.ActiveCfg = Nuget|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Nuget|Any CPU.Build.0 = Nuget|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Nuget|Mixed Platforms.ActiveCfg = Nuget|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Nuget|Mixed Platforms.Build.0 = Nuget|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Nuget|x86.ActiveCfg = Nuget|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Nuget|x86.Build.0 = Nuget|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Release|x86.ActiveCfg = Release|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Release|x86.Build.0 = Release|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Sym2nuget|Any CPU.ActiveCfg = Sym2nuget|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Sym2nuget|Any CPU.Build.0 = Sym2nuget|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Sym2nuget|Mixed Platforms.ActiveCfg = Sym2nuget|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Sym2nuget|Mixed Platforms.Build.0 = Sym2nuget|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Sym2nuget|x86.ActiveCfg = Sym2nuget|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Sym2nuget|x86.Build.0 = Sym2nuget|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Symbol|Any CPU.ActiveCfg = Symbol|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Symbol|Any CPU.Build.0 = Symbol|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Symbol|Mixed Platforms.ActiveCfg = Symbol|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Symbol|Mixed Platforms.Build.0 = Symbol|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Symbol|x86.ActiveCfg = Symbol|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Symbol|x86.Build.0 = Symbol|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Trial|Any CPU.ActiveCfg = Trial|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Trial|Any CPU.Build.0 = Trial|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Trial|Mixed Platforms.ActiveCfg = Trial|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Trial|Mixed Platforms.Build.0 = Trial|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Trial|x86.ActiveCfg = Trial|Any CPU
+		{0DACEB8C-064E-4395-90D9-298015700BB5}.Trial|x86.Build.0 = Trial|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0DACEB8C-064E-4395-90D9-298015700BB5} = {24A23F13-05F1-4EF3-804F-B01F64C7E204}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE628135-5B77-4696-A2E6-D00D01AC5CA0}
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = ..\nilnul.task.simulation\nilnul.relation(Warshall).vsmdi
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = ..\..\msn@mesh\develop(120409)\projs\nilnul.net.login\nilnul.net.login.vsmdi
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = ..\..\nilnul.num.rational\nilnul.num.rational.vsmdi
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = ..\..\nilnul.num.rational\nilnul.num.rational.vsmdi
+	EndGlobalSection
+EndGlobal
